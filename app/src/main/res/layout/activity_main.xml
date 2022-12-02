@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/ListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample button"
+        android:background="@drawable/my_button"
+        app:backgroundTint="@null"
+        android:onClick="onClick"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Standard button" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Styled button"
+        app:shapeAppearanceOverlay="@style/LeafButton" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample checkbox"
+        android:paddingLeft="8dp"
+        android:button="@drawable/my_checkbox"
+        android:buttonTint="#00FFFFFF"
+        android:buttonTintMode="src_over"
+        />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sample checkbox"
+        android:paddingLeft="8dp"
+        android:checked="true"
+        android:button="@drawable/my_checkbox"
+        android:buttonTint="#00FFFFFF"
+        android:buttonTintMode="src_over"
+        />-->
+
+</LinearLayout>
